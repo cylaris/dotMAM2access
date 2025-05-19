@@ -6,9 +6,8 @@ Python implementation of .MAM file generation for Remote File Inclusions (MS Acc
 
 - https://posts.specterops.io/phishing-tales-microsoft-access-macro-mam-shortcuts-c0bc3f90ed62
 
-```
+
 It has been observed that threat actors have used this technique as early as > 5 months in their phishing campaigns targeting wide variety of customers.
-```
 
 ## Gist
 
