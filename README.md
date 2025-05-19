@@ -33,6 +33,8 @@ The script is responsible to generating the `.MAM` file. Rather than creating is
 
 The script is responsible for executing the `.MAM` file. This is a custom implementation. In case of real victim, this is not required and `.MAM` file will work automatically.
 
+In our case `mamexec.py` will read the `.MAM` file as we have to point to script to it, finds out the domains and then simply opens the default web browser to open the URL/Domain embedded within the `.MAM` file. 
+
 ![](./snaps/mamexec.png)
 
 ## Thoughts
