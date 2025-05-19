@@ -5,7 +5,6 @@
 Python implementation of .MAM file generation for Remote File Inclusions (MS Access Macro) &amp; Execution.
 
 - https://posts.specterops.io/phishing-tales-microsoft-access-macro-mam-shortcuts-c0bc3f90ed62
-- https://posts.specterops.io/phishing-tales-microsoft-access-macro-mam-shortcuts-c0bc3f90ed62
 
 ```
 It has been observed that threat actors have used this technique as early as > 5 months in their phishing campaigns targeting wide variety of customers.
@@ -40,3 +39,5 @@ In our case `mamexec.py` will read the `.MAM` file as we have to point to script
 ## Thoughts
 
 Its a pretty cool method from the past. But we don't really have to forget that some really good custom implementations of this tool can come into the market. As more complex the environment is becoming, the more simple the attack might become that can lead to a successful compromise. 
+
+`I will also recommend to go through the first post as it shows how this thing actually works. The tool in this repo is not exactly how it should work but a different implementation of the same.`
